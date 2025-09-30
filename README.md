@@ -39,7 +39,6 @@ pnpm run dev
 
 - Add accessibility improvements to the modal (focus trap, ESC key).
 - Start creating folders to start separating by features if more features are added
-- Add E2E coverage (Cypress or Playwright) for query-param behavior and pagination.
 - Extract an API layer with caching (e.g., React Query) and request cancelation by key.
 - Make `type` and `city` filter options **discoverable** by querying popular value or add something like fuzzy search/auto complete.
 - Add skeleton loaders and a more built out table layout option along with design overhaul.

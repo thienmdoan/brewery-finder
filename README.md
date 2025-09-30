@@ -2,6 +2,9 @@
 
 A small React app built with Vite that searches breweries by name, city, or type of brewery using the **OpenBreweryDB** API.
 
+<img width="1039" height="991" alt="Screenshot 2025-09-30 at 10 13 22 AM" src="https://github.com/user-attachments/assets/e93105ed-2d7d-474f-9e40-be471b4d52a0" />
+
+
 ## File Structue
 
 ```

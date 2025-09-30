@@ -1,0 +1,37 @@
+[
+  {
+    "id": "brew-011",
+    "name": "Lima Lagers",
+    "brewery_type": "micro",
+    "city": "Nashville",
+    "state": "Tennessee"
+  },
+  {
+    "id": "brew-012",
+    "name": "Metro Malt",
+    "brewery_type": "regional",
+    "city": "Detroit",
+    "state": "Michigan"
+  },
+  {
+    "id": "brew-013",
+    "name": "North Node",
+    "brewery_type": "brewpub",
+    "city": "Minneapolis",
+    "state": "Minnesota"
+  },
+  {
+    "id": "brew-014",
+    "name": "Omega Orchard",
+    "brewery_type": "micro",
+    "city": "Burlington",
+    "state": "Vermont"
+  },
+  {
+    "id": "brew-015",
+    "name": "Prairie Pints",
+    "brewery_type": "micro",
+    "city": "Omaha",
+    "state": "Nebraska"
+  }
+]

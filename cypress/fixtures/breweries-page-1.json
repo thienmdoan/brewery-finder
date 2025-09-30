@@ -1,0 +1,78 @@
+[
+  {
+    "id": "brew-001",
+    "name": "Gamma Brewing",
+    "brewery_type": "micro",
+    "city": "Seattle",
+    "state": "Washington",
+    "street": "123 Hop Ave",
+    "postal_code": "98101",
+    "phone": "2065550101",
+    "website_url": "https://gamma.example.com"
+  },
+  {
+    "id": "brew-002",
+    "name": "Alpha Aleworks",
+    "brewery_type": "regional",
+    "city": "Portland",
+    "state": "Oregon",
+    "street": "42 Cascade Rd",
+    "postal_code": "97035"
+  },
+  {
+    "id": "brew-003",
+    "name": "Cascade Crafts",
+    "brewery_type": "brewpub",
+    "city": "Boise",
+    "state": "Idaho"
+  },
+  {
+    "id": "brew-004",
+    "name": "Delta Drafts",
+    "brewery_type": "micro",
+    "city": "San Diego",
+    "state": "California"
+  },
+  {
+    "id": "brew-005",
+    "name": "Echo Estates",
+    "brewery_type": "nano",
+    "city": "Austin",
+    "state": "Texas"
+  },
+  {
+    "id": "brew-006",
+    "name": "Foxtrot Ferments",
+    "brewery_type": "micro",
+    "city": "Chicago",
+    "state": "Illinois"
+  },
+  {
+    "id": "brew-007",
+    "name": "Harbor Hops",
+    "brewery_type": "micro",
+    "city": "Boston",
+    "state": "Massachusetts"
+  },
+  {
+    "id": "brew-008",
+    "name": "Ivy IPAs",
+    "brewery_type": "contract",
+    "city": "Denver",
+    "state": "Colorado"
+  },
+  {
+    "id": "brew-009",
+    "name": "Juniper Junction",
+    "brewery_type": "planning",
+    "city": "Phoenix",
+    "state": "Arizona"
+  },
+  {
+    "id": "brew-010",
+    "name": "Kilo Kegs",
+    "brewery_type": "bar",
+    "city": "Miami",
+    "state": "Florida"
+  }
+]
